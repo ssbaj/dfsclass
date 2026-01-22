@@ -1,11 +1,11 @@
-\name{e_dfclass}
-\alias{e_dfclass}
-\title{e_dfclass}
+\name{e_dfsclass}
+\alias{e_dfsclass}
+\title{e_dfsclass}
 \usage{
-e_dfclass()
+e_dfsclass()
 }
 \description{
-Prints 'Explaining data ---'.
+Explaining datasets
 }
 \examples{
 
