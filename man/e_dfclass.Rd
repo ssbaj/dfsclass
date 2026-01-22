@@ -1,0 +1,36 @@
+\name{e_dfclass}
+\alias{e_dfclass}
+\title{e_dfclass}
+\usage{
+e_dfclass()
+}
+\description{
+Prints 'Explaining data ---'.
+}
+\examples{
+
+  df00_id_brand_conv
+  df01_study_exhaust
+  df02_gdp_local_tax
+  df03_emotion_labor
+  df04_consumption_gdp
+  df05_titanic
+  df06_mdis_house_finance18
+  df07_caffe
+  df08_industry17
+  df09_travel22
+  df10_housing_status22
+  df11_mdis_donation18
+  df12_survey_donation
+  df13_final_exam
+  df14_final_exam
+  df15_suwon
+  df16_corp2021
+  df17_OLS
+  df18_anova
+  df19_chisq
+  df20_crispy
+  df21_foot
+  df22_path
+  df23_law
+}
