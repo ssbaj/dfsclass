@@ -3,8 +3,8 @@ e_dfsclass<-function(explaining=0){
   if(explaining==0) {
   cat("  ", '\n')
   cat("\033[1;32m## Statistics for PA and AI dataset ----------- \033[0m", '\n')
-  cat("  Dataset ---- ", '\n')
-  cat("  df00_id_brand_conv) ", '\n')
+  cat("\033[1;32m  Dataset ---- \033[0m", '\n')
+  cat("  df0 (df00_id_brand_conv) ", '\n')
   cat("  df1 (df01_study_exhaust)  ", '\n')
   cat("  df2 (df02_gdp_local_tax) ", '\n')
   cat("  df3 (df03_emotion_labor) ", '\n')
