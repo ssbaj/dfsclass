@@ -9,10 +9,9 @@ Explaining datasets
 }
 \examples{
 
-  df0 (df00_id_brand_conv)
-  df1 (df01_study_exhaust)
-  df2 (df02_gdp_local_tax)
-  df3 (df03_emotion_labor)
+  df1 (df01_id_brand_conv)
+  df2 (df02_study_exhaust)
+  df3 (df03_gdp_local_tax)
   df4 (df04_consumption_gdp)
   df5 (df05_titanic)
   df6 (df06_mdis_house_finance18) 
