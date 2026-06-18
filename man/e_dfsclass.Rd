@@ -14,7 +14,7 @@ Explaining datasets
   df3 (df03_gdp_local_tax)
   df4 (df04_consumption_gdp)
   df5 (df05_titanic)
-  df6 (df06_mdis_house_finance18) 
+  df06 (df06_mdis_house_finance18) 
   df7 (df07_caffe)
   df8 (df08_industry17) 
   df9 (df09_travel22) 

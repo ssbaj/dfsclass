@@ -9,7 +9,7 @@ e_dfsclass<-function(explaining=0){
   cat("  df3 (gdp_local_tax) ", '\n')
   cat("  df4 (consumption_gdp) ", '\n')
   cat("  df5 (titanic) ", '\n')
-  cat("  df6 (mdis_house_finance18) ", '\n')
+  cat("  df06 (mdis_house_finance18) ", '\n')
   cat("  df7 (caffe) ", '\n')
   cat("  df8 (industry17) ", '\n')
   cat("  df9 (travel22) ", '\n')
